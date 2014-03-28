@@ -2,10 +2,10 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: orenstudio
   description: Apache 2.x for RHEL/CentOS 6.x.
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
+  company: "orenstudio"
+  license: "MIT)"
   min_ansible_version: 1.4
   platforms:
   - name: EL
